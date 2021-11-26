@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">ADD CONTACT</string>
+    <string name="add_your_full_name">Add your full name</string>
+    <string name="add_your_phone_number">Add your phone number</string>
+    <string name="save_contact">SAVE CONTACT</string>
+    <string name="added_contact">Contact has been added succesfully</string>
+    <string name="error">%1$s</string>
+    <string name="edit_contact">EDIT CONTACT</string>
+    <string name="update_contact">UPDATE CONTACT</string>
+    <string name="permission_needed">Permission needed</string>
+</resources>
