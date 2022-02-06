@@ -87,7 +87,6 @@ class ContactsRecyclerViewAdapter : RecyclerView.Adapter<ContactsRecyclerViewAda
             } else {
                 contacts[index] = contact
             }
-
         }
 
         notifyDataSetChanged()

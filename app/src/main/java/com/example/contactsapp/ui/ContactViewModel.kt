@@ -52,11 +52,11 @@ class ContactViewModel: ViewModel() {
         }
 
         override fun onChildMoved(snapshot: DataSnapshot, previousChildName: String?) {
-            TODO("Not yet implemented")
+
         }
 
         override fun onCancelled(error: DatabaseError) {
-            TODO("Not yet implemented")
+
         }
 
 
